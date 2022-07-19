@@ -1,17 +1,21 @@
-site_name: Kubernetes
+site_name: Kubernetes Wiki
+site_dir: site
 site_description: Repositório do Projeto de Gerencia de Configuração e Evolução de Software
 repo_url: https://github.com/gces-2022-1-kubernetes/wiki
 dev_addr: '127.0.0.1:8000'
 edit_uri: ""
 
 theme:
-    name: material
-    logo: artifacts/Kubernetes_logo_without_workmark.png
-    favicon: artifacts/fav-icon.png
-    language: pt
-    palette:
-        primary: blue
-    features:
-        - navigation.tabs
-plugins:
-    - search
+  name: material
+  logo: assets/img/logo-kubernetes.png
+  favicon: assets/img/logo-kubernetes.png
+  language: pt
+  palette:
+      primary: blue
+      features:
+          - navigation.tabs
+  plugins:
+      - search
+extra_css: [assets/css/extra.css]
+nav:
+  - Sprint 1: sprint1.md
