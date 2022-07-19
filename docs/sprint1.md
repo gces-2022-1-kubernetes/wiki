@@ -28,3 +28,9 @@ acordo com orientações recebidas, as issues de baixa complexidade são bastant
 * Procurar issues no nível de conhecimento do grupo.
 * Aprender mais a fundo a linguagem Go.
 * Criar contatos no Slack para tirar as dúvidas.
+* Começarmos por issues de documentação.
+
+## Histórico de Revisão
+|Data|Versão|Descrição|Autor|
+|:--:|:--:|:--:|:--:|
+|18/07/22|1.0|Criação da página e formatação da Wiki|Abner Filipe e Paulo Gontijo|
