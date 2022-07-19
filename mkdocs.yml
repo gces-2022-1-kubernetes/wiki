@@ -19,3 +19,4 @@ theme:
 extra_css: [assets/css/extra.css]
 nav:
   - Sprint 1: sprint1.md
+  - Sprint 2: sprint2.md

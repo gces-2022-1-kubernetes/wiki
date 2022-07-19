@@ -25,6 +25,6 @@ O planejamento para a próxima sprint é rodar os submódulos do Kubernetes e, c
 contribuição. A dificuldade está em identificar módulos os quais nós teriamos mais confiança para trabalhar, pois de 
 acordo com orientações recebidas, as issues de baixa complexidade são bastante concorridas. Seguem os outros tópicos:
 
-- Procurar issues no nível de conhecimento do grupo.
-- Aprender mais a fundo a linguagem Go.
-- Criar contatos no Slack para tirar as dúvidas.
+* Procurar issues no nível de conhecimento do grupo.
+* Aprender mais a fundo a linguagem Go.
+* Criar contatos no Slack para tirar as dúvidas.

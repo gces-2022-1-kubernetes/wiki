@@ -2,7 +2,7 @@
 Este repositório tem como objetivo hospedar toda documentação de desenvolvimento do projeto Kubernetes da disciplina
 Gerência Configuração e Evolução de Software 2022.1 UnB-FGA.
 
-* Acesse aqui o [link para wiki.]()
+* Acesse aqui o [link para wiki.](https://gces-2022-1-kubernetes.github.io/wiki/)
 
 ## Integrantes
 Abaixo segue tabela com os integrantes do projeto e as suas reespectivas informações:
