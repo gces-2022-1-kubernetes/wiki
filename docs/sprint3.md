@@ -6,11 +6,18 @@
 Para a Sprint 3 o grupo resolveu iniciar a tocar no repositório mais a fundo, já que o estudo na linguagem Go vem acontecendo desde as primeiras Sprints. Com a divisão em <a>pair programming</a>, cada dupla resolveu pegar uma issue para resolver, a divisão das duplas foi seguido desde a primeira Sprint. Com a ajuda dos conteúdos estudados em Go e do canal de ajuda fornecido pelo próprio <a>Kubernetes</a> conhecido como <a>Slack</a>.
 </p>
 
-Duplas:
-- Geraldo Victor e Paulo Gontijo
-- Abner Filipe e Gabriel Avelino
-- Natanael Filho e Lorrany Oliveira
-- Daniel Alves e Gustave Persijin
+<center>
+
+|Duplas|
+|:-:|
+| Geraldo Victor e Paulo Gontijo|
+| Abner Filipe e Gabriel Avelino|
+| Natanael Filho e Lorrany Oliveira|
+| Daniel Alves e Gustave Persijin|
+
+</center>
+<h6 align = "center">Tabela 1: Duplas</h6>
+
 
 ## Objetivos realizados
 
@@ -41,7 +48,7 @@ Com cada dupla tendo estudado o conteúdo, cada dupla foi atrás de um grupo ou 
 
 ![img1](assets/img/contribuicaoPaulo.jpg)
 
-Figura 1 - Issue escolhida pelo grupo
+<h6 align = "center">Imagem 1 - Issue escolhida pelo grupo</h6>
 
 </center>
 
@@ -55,7 +62,7 @@ Para resolver essa issue a dupla responsável foi atrás de um contribuidor ativ
 
 ![img2](assets/img/conversaPaulo.jpg)
 
-Figura 2 - Conversa com o contribuidor
+<h6 align = "center">Imagem 2 - Conversa com o contribuidor</h6>
 
 </center>
 
@@ -63,7 +70,7 @@ Figura 2 - Conversa com o contribuidor
 
 ![img2](assets/img/conversaPaulo2.jpg)
 
-Figura 3 - Conversa com o contribuidor
+<h6 align = "center">Imagem 3 - Conversa com o contribuidor</h6>
 
 </center>
 
@@ -77,7 +84,7 @@ Com isso, a dupla começou a trabalhar na issue, abrindo um PR para ser revisado
 
 ![img2](assets/img/prPaulo.jpg)
 
-Figura 4 - PR realizado pela dupla
+<h6 align = "center">Imagem 4 - PR realizado pela dupla</h6>
 
 </center>
 
@@ -85,13 +92,13 @@ Figura 4 - PR realizado pela dupla
 
 <p style="text-indent: 20px; text-align: justify">
 Além da issue acima foi realizado uma tradução de documentação para PT-BR, seguindo as regras de contribuição, onde tem que dar o assign no excell, escolhendo a documentação desejada para tradução.
-<p>
+</p>
 
 <center>
 
 ![img2](assets/img/prGeraldo.png)
 
-Figura 5 - PR da documentação 
+<h6 align = "center">Imagem 5 - PR da documentação </h6>
 
 </center>
 
@@ -109,7 +116,7 @@ A outra tradução de documentação foi do <a>Kubernetes-objects</a>, onde a du
 
 ![img2](assets/img/prNathan.png)
 
-Figura 5 - PR da documentação  
+<h6 align = "center">Imagem 5 - PR da documentação  </h6>
 
 </center>
 
@@ -124,7 +131,7 @@ Outra issue escolhida foi a do Node-selector, uma issue da organização dos sub
 
 ![img2](assets/img/issueAbner.png)
 
-Figura 6 - Issue escolhida pela dupla 
+<h6 align = "center">Imagem 6 - Issue escolhida pela dupla </h6>
 
 </center>
 
@@ -137,7 +144,7 @@ Após ter dado assign na issue, a dupla começou a trabalhar para conseguir comp
 
 ![img2](assets/img/prAbner.png)
 
-Figura 7 - PR realizado pela dupla
+<h6 align = "center">Imagem 7 - PR realizado pela dupla</h6>
 
 </center>
 
@@ -155,7 +162,7 @@ O primeiro PR revisado foi de uma tradução de documentação, onde o contribui
 
 ![img2](assets/img/prGabriel.png)
 
-Figura 8 - PR revisado pela dupla
+<h6 align = "center">Imagem 8 - PR revisado pela dupla</h6>
 
 </center>
 
@@ -167,7 +174,7 @@ O Segundo PR revisado foi para ajudar um novo contribuidor, que não conhecia as
 
 ![img2](assets/img/prDaniel.jpg)
 
-Figura 9 - PR em que a dupla ajudou o contribuidor
+<h6 align = "center">Imagem 9 - PR em que a dupla ajudou o contribuidor</h6>
 
 </center>
 
@@ -175,16 +182,15 @@ Figura 9 - PR em que a dupla ajudou o contribuidor
 
 <p style="text-indent: 20px; text-align: justify">
 Para a entrega das próximas Sprints, o grupo vai continuar tentando instalar outros subgrupos do Kubernetes onde se sentem mais a vontade para contribuir, com a ajuda do maintenedor e do Slack para tirar dúvidas em tempo real. Algumas apendências:
-
-    - Aprofundar mais na linguagem GO
-    - Procurar issues no nível de conhecimento mais aprofundado
-
-
 </p>
+
+* Aprofundar mais na linguagem GO
+* Procurar issues no nível de conhecimento mais aprofundado
 
 ## Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:--:|
 |01/08/22|1.0|Criaçao do documento|Gabriel Avelino|
-|02/08/22|1.0|Ajustes de formatação e criação de legendas para as imagens| Gabriel Avelino
+|02/08/22|1.1|Ajustes de formatação e criação de legendas para as imagens| Gabriel Avelino |
+|02/08/22|1.2|Ajustes de formatação e criação de legendas para as imagens| Gabriel Avelino, Geraldo Victor, Paulo Gontijo, Lorrany Oliveira, Natanael Filho |

@@ -73,4 +73,4 @@ Para achar um conteúdo que deseja traduzir basta ir até a [planilha](https://d
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:--:|
 |19/07/22|1.0|Criação da página e formatação da Wiki|Abner Filipe e Paulo Gontijo|
-|02/08/22|1.0|Ajustes de formatação e criação de legendas para as imagens|
+|02/08/22|1.1|Ajustes de formatação e criação de legendas para as imagens| Geraldo Victor e Paulo Gontijo|
