@@ -19,7 +19,7 @@ Para a Sprint 3 o grupo resolveu iniciar a tocar no repositório mais a fundo, j
 <h6 align = "center">Tabela 1: Duplas</h6>
 
 
-## Objetivos realizados
+## Objetivos
 
 <p style="text-indent: 20px; text-align: justify">
 Com cada dupla tendo estudado o conteúdo, cada dupla foi atrás de um grupo ou subgrupo dentro da organização do <a>Kubernetes</a> para achar um repositório que tenha mais afinidade para contribuir.
